@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "Sonic-TGT",
+		"player3": null,
+		"events": [
+			[
+				63300,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sonic-TGT-Angry"
+					]
+				]
+			],
+			[
+				66075,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sonic-TGT"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sonic-TGT-Angry"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sonic-TGT-Forced"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sonic-TGT-Angry"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "No-Villains"
+	}
+}
