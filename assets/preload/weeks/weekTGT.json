@@ -1,0 +1,31 @@
+{
+	"storyName": "Vs Sonic",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "TGT",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"conversation",
+			"sonic-TGT",
+			[
+				46,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Sonic Week"
+}

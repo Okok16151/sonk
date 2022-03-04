@@ -1,0 +1,31 @@
+{
+	"storyName": "Vs Sonk",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "Sonk",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"rooftop",
+			"sonk",
+			[
+				6,
+				233,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "vs Sonk"
+}
